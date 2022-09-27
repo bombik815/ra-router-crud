@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/p2bpxvvssno4gf0u/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-router-crud/branch/main)
 
 [CRUD](https://bombik815.github.io/ra-router-crud/)
 
